@@ -7,11 +7,11 @@ var loadingBar = document.querySelector("#unity-loading-bar");
 var progressBarFull = document.querySelector("#unity-progress-bar-full");
 
 var buildUrl = "Build";
-var loaderUrl = buildUrl + "/fasdf.loader.js";
+var loaderUrl = buildUrl + "/TLSGame.loader.js";
 var config = {
-  dataUrl: buildUrl + "/fasdf.data.gz",
-  frameworkUrl: buildUrl + "/fasdf.framework.js.gz",
-  codeUrl: buildUrl + "/fasdf.wasm.gz",
+  dataUrl: buildUrl + "/TLSGame.data",
+  frameworkUrl: buildUrl + "/TLSGame.framework.js",
+  codeUrl: buildUrl + "/TLSGame.wasm",
   streamingAssetsUrl: "StreamingAssets",
   companyName: "TLS",
   productName: "TheLastTrip",
