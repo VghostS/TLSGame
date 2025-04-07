@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "579046588551",
+    "firebase_url": "https://thelasttrip-16545-default-rtdb.firebaseio.com",
+    "project_id": "thelasttrip-16545",
+    "storage_bucket": "thelasttrip-16545.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:579046588551:android:7b4076ffc1aafab5a2b822",
+        "android_client_info": {
+          "package_name": "com.Silent.Block"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBv93MIqpBzlG-CcAuWS9V_V5yDG3oKcy0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
